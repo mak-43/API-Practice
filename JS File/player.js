@@ -49,6 +49,6 @@ const setDetails=(info)=>{
     
     `
 
-
+f
     console.log(info)
 }
